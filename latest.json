@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "minimumSupportedVersionCode": 1,
+  "mandatory": false,
+  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.0/app-release.apk",
+  "sha256": "06ba28ea46a001ca7700bea6f3703fac307e559d38b37a94becc45a1181c624d",
+  "releaseNotes": [
+    "アプリ内からアップデートを確認できるようになりました",
+    "APKのバージョンとSHA-256を検証してからインストーラーを起動します",
+    "自動チェックは低頻度で実行します"
+  ]
+}
