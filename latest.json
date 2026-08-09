@@ -1,14 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 3,
-  "versionName": "1.1.1",
+  "versionCode": 4,
+  "versionName": "1.1.2",
   "minimumSupportedVersionCode": 1,
   "mandatory": false,
-  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.1/app-release.apk",
-  "sha256": "bc84a679a46074beacfceed4542a823c538bdb4389de964bde047cff11f58429",
+  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.2/app-release.apk",
+  "sha256": "954aaa161adfe9e84d8a96ed3508f7d89612a11bfc053bc6a12ee3f13aafcb4e",
   "releaseNotes": [
-    "アプリの更新版を公開しました",
-    "署名済みAPKを前回と同じRelease Keyで作成しています",
-    "アプリ内アップデート確認機能に対応しています"
+    "RoutineWireの表示、設定、バージョン情報、アップデート確認の導線を整理",
+    "ショートカット編集、共有入力、ウィジェットの操作性と視認性を改善",
+    "時刻・位置情報・通知などのバックグラウンド実行の検証と履歴表示を改善",
+    "位置情報診断レポートの再登録理由、精度、鮮度、省電力状態の確認を強化"
   ]
 }
