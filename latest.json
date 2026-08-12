@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 4,
-  "versionName": "1.1.2",
+  "versionCode": 5,
+  "versionName": "1.1.3",
   "minimumSupportedVersionCode": 1,
   "mandatory": false,
-  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.2/app-release.apk",
-  "sha256": "954aaa161adfe9e84d8a96ed3508f7d89612a11bfc053bc6a12ee3f13aafcb4e",
+  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.3/app-release.apk",
+  "sha256": "04979a6e5874c5263ce5688a90f43c48da74634aba8a3e3481a315570c62a1cc",
   "releaseNotes": [
-    "RoutineWireの表示、設定、バージョン情報、アップデート確認の導線を整理",
-    "ショートカット編集、共有入力、ウィジェットの操作性と視認性を改善",
-    "時刻・位置情報・通知などのバックグラウンド実行の検証と履歴表示を改善",
-    "位置情報診断レポートの再登録理由、精度、鮮度、省電力状態の確認を強化"
+    "表示テーマ（システム／ライト／ダーク）の選択と保持に対応",
+    "起動時表示、音声読み上げ、設定画面、ショートカット操作を改善",
+    "権限・自動化状態、実行履歴、位置情報診断の確認性を強化",
+    "フォルダー、アーカイブ、ゴミ箱、復元、ショートカット複製、型付きデータ、ファイル読取、OCR、QRコード読取に対応"
   ]
 }
