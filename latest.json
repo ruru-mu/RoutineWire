@@ -1,15 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionCode": 5,
-  "versionName": "1.1.3",
+  "versionCode": 6,
+  "versionName": "1.1.4",
   "minimumSupportedVersionCode": 1,
   "mandatory": false,
-  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.3/app-release.apk",
-  "sha256": "04979a6e5874c5263ce5688a90f43c48da74634aba8a3e3481a315570c62a1cc",
+  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.4/app-release.apk",
+  "sha256": "9921bd097448abe8260c05d5bb7ba01b18a1d4be5f5aefa00496e378f44d4b6a",
   "releaseNotes": [
-    "表示テーマ（システム／ライト／ダーク）の選択と保持に対応",
-    "起動時表示、音声読み上げ、設定画面、ショートカット操作を改善",
-    "権限・自動化状態、実行履歴、位置情報診断の確認性を強化",
-    "フォルダー、アーカイブ、ゴミ箱、復元、ショートカット複製、型付きデータ、ファイル読取、OCR、QRコード読取に対応"
+    "バックグラウンド処理終了後にアプリが意図せず前面へ戻る問題を修正",
+    "画面表示が必要なアプリ起動操作は、ユーザーが手動で実行した場合だけ行うよう改善"
   ]
 }
