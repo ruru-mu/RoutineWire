@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionCode": 7,
-  "versionName": "1.1.5",
+  "versionCode": 8,
+  "versionName": "1.1.6",
   "minimumSupportedVersionCode": 1,
   "mandatory": false,
-  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.5/app-release.apk",
-  "sha256": "d36e17310d5a532ebaf59f66d42c2ca454b3e71cef266a8148127f85ae29f60c",
+  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.6/app-release.apk",
+  "sha256": "0ed961053ae5ba58a3683b53504f871ad8406806def7ed733da1a287685e19e6",
   "releaseNotes": [
-    "ショートカットとオートメーションを選択してJSONバンドルとして共有・保存できるよう改善",
-    "共有バンドルのIDを再生成し、オートメーションを無効状態で安全に読み込めるよう改善"
+    "NFCタグのオートメーション起動と、Android 13以降のWi-Fiトリガー権限確認に対応",
+    "通知読み上げ、位置・Wi-Fi・アクティビティトリガーの再接続・再登録と権限状態の扱いを改善"
   ]
 }
