@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionCode": 8,
-  "versionName": "1.1.6",
+  "versionCode": 9,
+  "versionName": "1.1.7",
   "minimumSupportedVersionCode": 1,
   "mandatory": false,
-  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.6/app-release.apk",
-  "sha256": "0ed961053ae5ba58a3683b53504f871ad8406806def7ed733da1a287685e19e6",
+  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.7/app-release.apk",
+  "sha256": "37317109840626485f873ff72cdc478fa91be5779fb353ec7d14b00aacdb565f",
   "releaseNotes": [
-    "NFCタグのオートメーション起動と、Android 13以降のWi-Fiトリガー権限確認に対応",
-    "通知読み上げ、位置・Wi-Fi・アクティビティトリガーの再接続・再登録と権限状態の扱いを改善"
+    "住所から登録地点を設定できるようにし、アクションを目的の位置へ追加しやすく改善",
+    "通知、Wi-Fi、位置、アクティビティのトリガー再接続と権限状態、音量設定の適用確認を改善"
   ]
 }
