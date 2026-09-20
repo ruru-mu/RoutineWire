@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionCode": 11,
-  "versionName": "1.1.9",
+  "versionCode": 12,
+  "versionName": "1.1.10",
   "minimumSupportedVersionCode": 1,
   "mandatory": false,
-  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.9/app-release.apk",
-  "sha256": "86271d8305a6a9c531386eff1c162768332c876a5ef69500838ec73a0f81e2b5",
+  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.10/app-release.apk",
+  "sha256": "9ef9ddac1022f48367928e349f8cc269f8bcdd2be2978a2d1ee7009a0d9d5616",
   "releaseNotes": [
-    "release版でも仮の位置情報を使ったGeofence診断を利用可能に改善",
-    "条件の共通化、ネットワーク使用量アクション、ショートカット編集履歴を改善"
+    "アップデート中に戻った場合でも安全にキャンセルして再試行可能に改善",
+    "FileProviderを共通化し、ColorOSなどで発生するAPK解析エラーを修正"
   ]
 }
