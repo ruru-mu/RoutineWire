@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionCode": 9,
-  "versionName": "1.1.7",
+  "versionCode": 10,
+  "versionName": "1.1.8",
   "minimumSupportedVersionCode": 1,
   "mandatory": false,
-  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.7/app-release.apk",
-  "sha256": "37317109840626485f873ff72cdc478fa91be5779fb353ec7d14b00aacdb565f",
+  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.8/app-release.apk",
+  "sha256": "b491305a49dc826c54f48f060caf1c7ee44bed96814fe07f1931f9575343957b",
   "releaseNotes": [
-    "住所から登録地点を設定できるようにし、アクションを目的の位置へ追加しやすく改善",
-    "通知、Wi-Fi、位置、アクティビティのトリガー再接続と権限状態、音量設定の適用確認を改善"
+    "条件の共通化とネットワーク使用量アクションを追加",
+    "ショートカット編集履歴、ウィジェット、バックグラウンド実行、位置トリガーを改善"
   ]
 }
