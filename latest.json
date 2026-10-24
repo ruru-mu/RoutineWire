@@ -1,13 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionCode": 12,
-  "versionName": "1.1.10",
+  "versionCode": 13,
+  "versionName": "1.1.11",
   "minimumSupportedVersionCode": 1,
   "mandatory": false,
-  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.10/RoutineWire-v1.1.10-signed.apk",
-  "sha256": "9ef9ddac1022f48367928e349f8cc269f8bcdd2be2978a2d1ee7009a0d9d5616",
+  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.11/RoutineWire-v1.1.11-signed.apk",
+  "sha256": "7e7de828b6ae12f54fcb1ae7544d9c12e55dd53916bbf96a57eb263b94c2b3ec",
   "releaseNotes": [
-    "アップデート中に戻った場合でも安全にキャンセルして再試行可能に改善",
-    "FileProviderを共通化し、ColorOSなどで発生するAPK解析エラーを修正"
+    "ショートカット編集、下部ナビゲーション、ライブラリ、オートメーション、外観設定を刷新",
+    "ホーム画面ショートカット、前面アプリ検知、画面回転・ライト・振動の操作を追加",
+    "アプリ内アップデートの進捗表示、再試行、中断後の復帰を改善",
+    "認証情報管理を廃止しました。保存済みの認証情報は削除され、{{secret:...}}を使うHTTPアクションは動作しなくなります。"
   ]
 }
