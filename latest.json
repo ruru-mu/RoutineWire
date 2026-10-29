@@ -1,15 +1,14 @@
 {
   "schemaVersion": 1,
-  "versionCode": 13,
-  "versionName": "1.1.11",
+  "versionCode": 14,
+  "versionName": "1.1.12",
   "minimumSupportedVersionCode": 1,
   "mandatory": false,
-  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.11/RoutineWire-v1.1.11-signed.apk",
-  "sha256": "7e7de828b6ae12f54fcb1ae7544d9c12e55dd53916bbf96a57eb263b94c2b3ec",
+  "downloadUrl": "https://github.com/ruru-mu/RoutineWire/releases/download/v1.1.12/RoutineWire-v1.1.12-signed.apk",
+  "sha256": "8e42f6c2508c3053a06061aea55281f1967f53af22791f96408cf9ad531d954a",
   "releaseNotes": [
-    "ショートカット編集、下部ナビゲーション、ライブラリ、オートメーション、外観設定を刷新",
-    "ホーム画面ショートカット、前面アプリ検知、画面回転・ライト・振動の操作を追加",
-    "アプリ内アップデートの進捗表示、再試行、中断後の復帰を改善",
-    "認証情報管理を廃止しました。保存済みの認証情報は削除され、{{secret:...}}を使うHTTPアクションは動作しなくなります。"
+    "RoutineWire 1.1.12では、ショートカットの作成と、よく使うアプリとの連携をさらに便利にしました。Google マップやブラウザ、カレンダーなどの操作に加え、写真の選択・変換、QRコード、PDF作成、ファイルの整理など、日常的な作業をまとめて実行できる機能が充実しました。",
+    "オートメーションでは、Bluetooth機器を接続・切断したあとに特定のアプリを開いた場合だけ実行する条件や、開始前に通知で確認する機能を追加しました。ホーム画面のウィジェットやAndroidのクイック設定からの操作も、より分かりやすくなっています。",
+    "このアップデートには、ショートカット編集、アクション検索、実行履歴、診断画面の使いやすさを高める改善と、動作の安定性や安全性に関する修正も含まれます。一部の機能は端末の対応状況やAndroidの権限設定によって利用できない場合があります。"
   ]
 }
